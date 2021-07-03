@@ -1,4 +1,4 @@
-# tirechange-vue
+# Elite
 
 ## Project setup
 ```
